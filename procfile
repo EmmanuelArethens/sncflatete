@@ -1,1 +1,1 @@
-web: gunicorn sncf_serveur_flask:app
+web: gunicorn serv:app
